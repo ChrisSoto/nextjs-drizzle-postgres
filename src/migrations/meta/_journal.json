@@ -1,0 +1,13 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1709662038340,
+      "tag": "0000_sweet_nicolaos",
+      "breakpoints": true
+    }
+  ]
+}
