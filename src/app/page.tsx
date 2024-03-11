@@ -8,7 +8,7 @@ export default async function Home() {
   return (
     <div>
       Connected to database?
-      <p>{count.length}</p>
+      <p>{count.length/2}</p>
     </div>
   );
 }
